@@ -5,3 +5,5 @@ Can you make a poster for an event happening at your school? It could be a play,
 Next, go to the Skills in Careers activity and then complete the next project in the HTML & CSS module 1 pathway: 'Recipe'.
 
 --- /challenge ---
+
+![progress bar](images/h1-3.png)

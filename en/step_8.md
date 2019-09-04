@@ -7,3 +7,8 @@ Next, go to the Skills in Careers activity and then complete the next project in
 --- /challenge ---
 
 ![progress bar](images/h1-3.png)
+
+Click on the 'Click me' button to try the next project:
+
+<a href="hhttps://codeclub.org/en/html1">
+<img src="images/Clickme.png">
